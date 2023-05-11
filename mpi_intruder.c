@@ -171,7 +171,8 @@ int main(int argc, char *argv[])
 	return 0; 
 }
 /* RESULTS: 
-
+TODO investigate the strange behaviour when the intrudwe is placed in the middle of the array
+TODO potential fix for undividible array size
 Time for 1 proc:
     START OF ARRAY: 
         Process 0 found intruder on index 2 
